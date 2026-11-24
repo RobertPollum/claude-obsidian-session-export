@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-session-export",
+  "version": "0.1.0",
+  "description": "Automatically export local Claude Code sessions and subagents to Markdown notes in an Obsidian vault",
+  "author": { "name": "Robert Pollum" },
+  "repository": "https://github.com/RobertPollum/claude-obsidian-session-export",
+  "keywords": ["obsidian", "markdown", "export", "transcripts"]
+}

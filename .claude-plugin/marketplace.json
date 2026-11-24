@@ -1,0 +1,12 @@
+{
+  "name": "robert-tools",
+  "description": "Personal Claude Code plugins",
+  "owner": { "name": "Robert Pollum" },
+  "plugins": [
+    {
+      "name": "obsidian-session-export",
+      "source": "./",
+      "description": "Export local Claude Code sessions to an Obsidian vault"
+    }
+  ]
+}
